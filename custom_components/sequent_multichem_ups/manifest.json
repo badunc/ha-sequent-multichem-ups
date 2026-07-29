@@ -5,7 +5,7 @@
   "documentation": "https://github.com/<your-github-name>/ha-sequent-multichem-ups",
   "issue_tracker": "https://github.com/<your-github-name>/ha-sequent-multichem-ups/issues",
   "codeowners": [
-    "@<your-github-name>"
+    "@badunc"
   ],
   "requirements": [
     "smbus2>=0.5.0"
